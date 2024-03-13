@@ -1,16 +1,16 @@
-### Hi there 👋
+# Franco Gino Ferraguti 👨‍💻
 
-<!--
-**gilperopiola/gilperopiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a seasoned **Golang expert** specialized in backend architecture and cloud infrastructure. With **11 years of experience** (including owning a software company), I've developed a deep understanding on how to transform an idea into a project and then into a full-fledged scalable tested system. My stack also includes TypeScript & React for the frontend, Python for automation, and a strong foundation in database management with SQL & NoSQL. I'm also proficient in containerization and orchestration with Docker & Kubernetes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: **ferra.main@gmail.com**  
+
+## Coding Skills
+
+- **Languages**: Golang, Python, PHP, JavaScript, TypeScript, C#, C++, Lua.
+- **Technologies**: Docker, Kubernetes, gRPC & HTTP, AWS, GCP, Jenkins, Django, Laravel, ReactJS, Redux, React Native, Unity, Elasticsearch, Kibana, Grafana, Prometheus, NewRelic, etc.
+
+## Let's Talk!
+
+I'm passionate about this and always open to talk. Feel free to reach out and thanks for reading! :)
