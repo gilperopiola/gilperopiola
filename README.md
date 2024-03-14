@@ -9,7 +9,7 @@ I'm a seasoned **Golang expert** specialized in backend architecture and cloud i
 ## Coding Skills
 
 - **Languages**: Golang, Python, PHP, JavaScript, TypeScript, C#, C++, Lua.
-- **Technologies**: Docker, Kubernetes, gRPC & HTTP, AWS, GCP, Jenkins, Django, Laravel, ReactJS, Redux, React Native, Unity, Elasticsearch, Kibana, Grafana, Prometheus, NewRelic, etc.
+- **Technologies**: Docker, Kubernetes, gRPC & HTTP, AWS, GCP, MySQL, PostgreSQL, MongoDB, Redis, Jenkins, Django, Laravel, ReactJS, Redux, React Native, Unity, Elasticsearch, Kibana, Grafana, Prometheus, NewRelic, etc.
 
 ## Let's Talk!
 
