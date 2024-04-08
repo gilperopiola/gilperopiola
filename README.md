@@ -11,5 +11,5 @@ Seasoned **Golang expert** specialized in backend architecture and cloud infra :
 
 ## Let's Talk!
 
-I'm passionate about this and always open to talk. Feel free to reach out and **ty** for reading!~
+I'm really passionate about this, feel free to reach out and **ty** for reading!~
 
