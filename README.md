@@ -1,6 +1,6 @@
 # _Franco Gino Ferraguti_ 🔰
 
-**Proud Argentino** ⭐️⭐️⭐️ **Experto en Golang** — *Fell in love with programming 15 years ago and the flame is still burning*. 
+**Proud Argentino** ⭐️⭐️⭐️ **Experto en Golang** — Fell in love with programming 15 years ago *and the flame is still burning*. 
 
 ***Jack of all techs, master of Go.*** Started as a child copy-pasting Ruby scripts in RPGMaker, then in school I _actually_ learned with QBasic and VBasic doing Winforms. After that I began Fullstacking¹ for a job while developing Videogames and AI on college. And finally about 6 years ago I divorced the Frontend and decided to specialize in **Backend Engineering** and all it entails: `API Design & Implementation`, `Distributed Systems Architecture`, `Web Protocols`, `Cloud Infra`, `DBs`, `CI/CD`, `Message Brokers` and much more. 
 
