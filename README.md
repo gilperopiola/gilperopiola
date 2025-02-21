@@ -1,28 +1,30 @@
 # _Franco Gino Ferraguti_ 🔰
 
-**Proud Argentino** ⭐️⭐️⭐️ **Experto en Golang** — Fell in love with programming 15 years ago, *flame still burning*. 
+**Argentino** ⭐️⭐️⭐️ **Experto en Golang** — Fell in <3 with programming 15 years ago, <3 it still. 
+
+> TLDR: Cool guy, +15 years coding, +10 working in web dev, very broad experience and skills. Go, AI, Automation, Python, Cloud Infra, etc.
 
 ***Jack of all techs, Master of Go*** — Started as a child **copy-pasting Ruby scripts in RPGMaker** and **making forum banners with cool effects** using a ~~not-so-legal~~ portable **Photoshop** CS4. In school I learned **QBasic**, **VBasic** doing Winforms and some **HTML + CSS**. I liked all of it, I was good at it and most of my friends were too — Which led to countless late nights coding for fun and charging classmates $ for doing their school projects 🤫 
 
-**At 18** I began **fullstacking¹** for a job, while developing **videogames** and **AI** on college. **Started a software factory** with some friends and no money — we lasted about **5 years** and completed **+30 projects**, having to deal with clients, employees, money, specs and deadlines while coding, **managing infra** and cleaning the toilets. Had some fullstack jobs and gigs after — **Mostly Go and React** with a side of Python — And 6 years ago I finally divorced the Frontend I had once loved and decided to specialize in everything **Backend Engineering**: `API Design & Implementation`, `Distributed Systems Architecture`, `Web Protocols`, `Cloud Infra`, `DBs`, `Observa`, `CI/CD`, `Message Brokers` and more. 
+**At 18** I began **fullstacking¹** for a job, while making **videogames** and **AI** on college. **Started a software factory** with some friends and no money — we lasted ~**5 years** and **+30 projects**, dealing with clients, employees, money, specs and deadlines, also coding, **managing infra** and cleaning the toilets. Since then, I've had different jobs, gigs and positions, **90% in Go, React, Python** — Finally divorcing the Frontend and decided to specialize in everything **Backend Engineering**: `API Design & Implementation`, `Distributed Systems Architecture`, `Web Protocols`, `Cloud Infra`, `DBs`, `Observa`, `CI/CD`, `Message Brokers` and more. 
 
 ### *@gilperopiola* 📷 — *ferra.main@gmail.com* 📨
 
 
-> **Short and simple is best. Automate it once and forget about it forever.** *Patria grande, estado de bienestar, educación y mucha IA.* Golang Standards and Best Practices™️ _with some twists_ :) Orgulloso Hufflepuff, cringe culture, buscame en Soundcloud.
+> **Short and simple. Automate it once and forget about it forever.** *Patria grande, estado de bienestar, educación, IA.* Golang Standards and Best Practices™️ _with some twists_ *:)* - Proud Hufflepuff, read 4/5 of ASOIAF, organization junkie.
 
-###### ¹. Fullstacking includes things like Automation, Testing, Observability, DevOps, etc...
+###### ¹. Fullstacking includes Automation, Testing, Observability, DevOps, etc...
 
 ---
-## ⚡ **Languages**
+### 🔥 **Languages**
 
 |                       |               |                     |
 |-----------------------|---------------|---------------------|
 | **Golang**            | **Python**    | **PHP**             |
 | **JavaScript**        | **TypeScript**| **C#**              |
-| **C++**               | **Lua**       | **Some French**     |
+| **C++**               | **Lua**       | ***French??***      |
 
-## 🔥 **Tools and Frameworks**
+### ⚡**Tools - Frameworks**
 |                       |                    |                 |                   |
 |-----------------------|--------------------|-----------------|-------------------|
 | **Docker**            | **K8s**            | **gRPC**        | **HTTP**          |
@@ -30,7 +32,7 @@
 | **Redis**             | **Kafka**          | **Jenkins**     | **Django**        |
 | **Laravel**           | **ReactJS**        | **Redux**       | **React Native**  |
 | **Unity**             | **Elasticsearch**  | **Kibana**      | **Grafana**       |
-| **Prometheus**        | **New Relic**      | **Datadog**     | ...99+            |
+| **Prometheus**        | **New Relic**      | **Datadog**     | +999...           |
 
 ---
 
